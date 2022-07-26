@@ -1,0 +1,1 @@
+route add -net 212.100.54.64/26 gw 212.100.54.1 dev eth0
